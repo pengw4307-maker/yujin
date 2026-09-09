@@ -1,0 +1,5 @@
+{
+  "version": "2.2.0",
+  "notes": "V2.2 更新:双协议模型接入(Ollama 原生 / OpenAI 兼容,可直连本地 DSH)、U盘记忆库状态徽章、自动升级机制、思维链折叠展示、消息复制与重新生成、任务重试/删除、整体备份恢复。",
+  "fileUrl": "https://raw.githubusercontent.com/pengw4307-maker/yujin/main/ProjectY-V2.html"
+}
